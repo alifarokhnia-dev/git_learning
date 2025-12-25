@@ -12,20 +12,6 @@ sudo apt update && sudo apt install git
 
 ## Getting Started
 
-#### what is git:
-it is a distributed version control system where we keep track of our work and changes over time.
-
-#### repository:
-tracked files that are indicating our source code.
-
-#### untracked:
-first when we create a repository, all files are untracked and need to be staged.
-
-#### staged/indexed:
-is the previous step from commit, this is the testing area.
-
-#
-
 ```bash 
 git log
 ```
